@@ -1,3 +1,4 @@
+#Video : https://www.youtube.com/watch?v=a6TXg_WIcIQ
 ### Local MySQL setup
 
 After installing mysql with
